@@ -1,0 +1,1 @@
+# semgrep.dev-rules
